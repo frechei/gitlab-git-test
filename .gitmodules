@@ -7,3 +7,9 @@
 [submodule "gitlab-grack"]
 	path = gitlab-grack
 	url = https://gitlab.com/gitlab-org/gitlab-grack.git
+[submodule "nested/six"]
+	path = nested/six
+	url = git://github.com/randx/six.git
+[submodule "deeper/nested/six"]
+	path = deeper/nested/six
+	url = git://github.com/randx/six.git
