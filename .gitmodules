@@ -13,3 +13,4 @@
 [submodule "deeper/nested/six"]
 	path = deeper/nested/six
 	url = git://github.com/randx/six.git
+# Comment that should be ignored
